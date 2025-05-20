@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A simple app to test [Node.js](http://nodejs.org/) support.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prespik/node-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prespik/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/prespik/node-hello-world#readme"
+}
